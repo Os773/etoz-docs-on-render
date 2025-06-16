@@ -8,6 +8,12 @@ The gist of it all is MKdocs uses the Markdown format to write pages, and makes 
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+## How to join the project
+
+If you want to join the project I expect you to work on your own branch and make a pull request properly detailing what you have added. 
+
+The project repository is found here => [https://github.com/Os773/etoz-docs-on-render](https://github.com/Os773/etoz-docs-on-render)
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
