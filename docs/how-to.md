@@ -1,3 +1,11 @@
+---
+title: Adding Pages
+summary: How to add and edit pages for this Wiki
+authors: Os773
+date: 20-06-2025
+---
+
+
 # Adding pages
 
 This documentation is written and built with use of [MKdocs](https://www.mkdocs.org/).  

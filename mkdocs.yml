@@ -1,5 +1,8 @@
 site_name: ETOZ Dashboard Docs
 
 nav:
-- index.md
-- how-to.md
+- Home: index.md
+- API Guide:
+  - Homewizard API: api/hw-connect.md
+- User guide:
+  - Adding pages: how-to.md
